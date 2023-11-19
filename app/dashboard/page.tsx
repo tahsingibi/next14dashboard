@@ -13,10 +13,6 @@ import { fetchCardData } from '@/app/lib/data';
 
 
 export default async function DashboardPage() {
-
-
-
-
     return (
         <main>
             <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>Dashboard</h1>
